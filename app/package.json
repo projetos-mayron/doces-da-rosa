@@ -1,15 +1,16 @@
 {
   "name": "doces-da-rosa",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.x",
-    "react": "18.x",
-    "react-dom": "18.x"
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18"
   }
 }
